@@ -25,7 +25,7 @@ The Gallery is not adjusting to the size of the window.  In the future I would l
 
 ## Authors
 
-* **Jean Peel** - *Initial work on React Webpage* - [Jean Peel](https://github.com/JeanPeel)
+* **Jean Peel** - *Page Building* - [Jean Peel](https://github.com/JeanPeel)
 
 ## Acknowledgments
 
